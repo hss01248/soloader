@@ -1,0 +1,12 @@
+
+¨%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ãÚ×Ûûÿÿÿÿ8Úþ§…¿-
+¨%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ãÚ×Ûûÿÿÿÿ8Úþ§…¿-
+ksquid:S1192"ODefine a constant instead of duplicating this literal " not found in " 4 times.( ’óÞ8Úþ§…¿-
+Bsquid:S1452"&Remove usage of generic wildcard type.(«ùÇí8Úþ§…¿-
+[squid:S1118":Add a private constructor to hide the implicit public one.(åÃ¸áÿÿÿÿÿ8Úþ§…¿-
+Ksquid:S00108")Either remove or fill this block of code.(µØ¯®øÿÿÿÿ8Úþ§…¿-
+Ksquid:S00108")Either remove or fill this block of code.(µØ¯®øÿÿÿÿ8Úþ§…¿-
+Ksquid:S00108")Either remove or fill this block of code.(¼¯•¶ùÿÿÿÿ8Úþ§…¿-
+Ksquid:S00108")Either remove or fill this block of code.(¼¯•¶ùÿÿÿÿ8Úþ§…¿-
+Asquid:S1181"%Catch Exception instead of Throwable.(Æ·™‹8Úþ§…¿-
+Asquid:S1181"%Catch Exception instead of Throwable.(âÂéî8Úþ§…¿-

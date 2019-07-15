@@ -1,0 +1,18 @@
+
+Lsquid:S1068"+Remove this unused "isDebug" private field.(µÉ¬üÿÿÿÿ8Û§ò…¿-
+isquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Å“‡á8Û§ò…¿-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷Ï©Ÿıÿÿÿÿ8Û§ò…¿-
+?squid:S1148"#Use a logger to log this exception.(Óùóÿ8Û§ò…¿-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰õ¢•8Û§ò…¿-
+œsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹ö›n8Û§ò…¿-
+wsquid:S1450"VRemove the "isDebug" field and declare it as a local variable in the relevant methods.(µÉ¬üÿÿÿÿ8Û§ò…¿-
+ysquid:S3008"XRename this field "CUSTOM_SO_DIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ÿ­ìúÿÿÿÿ8Û§ò…¿-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©íØŞùÿÿÿÿ8Û§ò…¿-
+[squid:S1118":Add a private constructor to hide the implicit public one.(ğ¼Üåÿÿÿÿÿ8Û§ò…¿-
+Asquid:S1181"%Catch Exception instead of Throwable.(ëß‹™8Û§ò…¿-
+Asquid:S1181"%Catch Exception instead of Throwable.(ëß‹™8Û§ò…¿-
+?squid:S1148"#Use a logger to log this exception.(Óùóÿ8Û§ò…¿-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(Ã·æ¢ıÿÿÿÿ8Û§ò…¿-
+jsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Á®—®8Û§ò…¿-
+Hsquid:S1481"'Remove this unused "id" local variable.(œÅ÷üÿÿÿÿ8Û§ò…¿-
+Wsquid:S1854"6Remove this useless assignment to local variable "id".(œÅ÷üÿÿÿÿ8Û§ò…¿-

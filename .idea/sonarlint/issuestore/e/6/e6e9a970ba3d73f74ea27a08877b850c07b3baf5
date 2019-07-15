@@ -1,0 +1,5 @@
+
+_squid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8³—í…¿-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8³—í…¿-
+Fsquid:S1181"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8³—í…¿-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8³—í…¿-

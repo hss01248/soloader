@@ -1,0 +1,10 @@
+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØÛÿŒ8¢êÈ…¿-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ˜Èøÿÿÿÿ8¢êÈ…¿-
+ƒsquid:UselessImportCheck"ZRemove this unused import 'com.liulishuo.okdownload.core.listener.assist.Listener1Assist'.(€ËÅ™8¢êÈ…¿-
+nsquid:UselessImportCheck"@Remove this unused import 'android.support.annotation.Nullable'.(Ö‹øïüÿÿÿÿ8¢êÈ…¿-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×ç‹¼şÿÿÿÿ8¢êÈ…¿-
+isquid:UselessImportCheck"@Remove this unused import 'com.liulishuo.okdownload.OkDownload'.(‹”÷ñ8¢êÈ…¿-
+ƒsquid:UselessImportCheck"URemove this unused import 'com.liulishuo.okdownload.core.listener.DownloadListener1'.(­Š£Óûÿÿÿÿ8¢êÈ…¿-
+wsquid:UselessImportCheck"IRemove this unused import 'com.liulishuo.okdownload.core.cause.EndCause'.(¹ƒ¢ªøÿÿÿÿ8¢êÈ…¿-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦›îãùÿÿÿÿ8¢êÈ…¿-
